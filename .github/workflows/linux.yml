@@ -1,16 +1,16 @@
 name: Linux
 
-# on:
-#   push:
-#     branches:
-#       - '*'
+on:
+  push:
+    branches:
+      - '*'
 
-#     tags:
-#       - 'v*'
+    tags:
+      - 'v*'
 
-#   pull_request:
-#     branches:
-#       - '*'
+  pull_request:
+    branches:
+      - '*'
 
 jobs:
   linux_build:
