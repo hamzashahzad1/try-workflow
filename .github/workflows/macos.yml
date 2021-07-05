@@ -1,16 +1,16 @@
 name: macOS
 
 on:
-  push:
-    branches:
-      - '*'
+#   push:
+#     branches:
+#       - '*'
 
-    tags:
-      - 'v*'
+#     tags:
+#       - 'v*'
 
-  pull_request:
-    branches:
-      - '*'
+#   pull_request:
+#     branches:
+#       - '*'
 
 jobs:
   macos_build:
