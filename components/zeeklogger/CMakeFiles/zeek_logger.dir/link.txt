@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzeek_logger.a  CMakeFiles/zeek_logger.dir/src/zeeklogger.cpp.o CMakeFiles/zeek_logger.dir/src/zeekloggertableplugin.cpp.o
+/usr/bin/ranlib libzeek_logger.a

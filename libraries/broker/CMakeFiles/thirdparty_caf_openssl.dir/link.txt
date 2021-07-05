@@ -1,0 +1,2 @@
+/usr/bin/ar qc libthirdparty_caf_openssl.a  CMakeFiles/thirdparty_caf_openssl.dir/src/caf/libcaf_openssl/src/openssl/manager.cpp.o CMakeFiles/thirdparty_caf_openssl.dir/src/caf/libcaf_openssl/src/openssl/middleman_actor.cpp.o CMakeFiles/thirdparty_caf_openssl.dir/src/caf/libcaf_openssl/src/openssl/publish.cpp.o CMakeFiles/thirdparty_caf_openssl.dir/src/caf/libcaf_openssl/src/openssl/remote_actor.cpp.o CMakeFiles/thirdparty_caf_openssl.dir/src/caf/libcaf_openssl/src/openssl/session.cpp.o
+/usr/bin/ranlib libthirdparty_caf_openssl.a

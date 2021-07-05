@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/vagrant/projects/try-workflow/libraries/openssl/CMakeFiles/thirdparty_openssl_builder"
+		},
+		{
+			"file" : "/home/vagrant/projects/try-workflow/libraries/openssl/CMakeFiles/thirdparty_openssl_builder.rule"
+		},
+		{
+			"file" : "/home/vagrant/projects/try-workflow/libraries/openssl/CMakeFiles/thirdparty_openssl_builder-complete.rule"
+		},
+		{
+			"file" : "/home/vagrant/projects/try-workflow/libraries/openssl/thirdparty_openssl_builder-prefix/src/thirdparty_openssl_builder-stamp/thirdparty_openssl_builder-install.rule"
+		},
+		{
+			"file" : "/home/vagrant/projects/try-workflow/libraries/openssl/thirdparty_openssl_builder-prefix/src/thirdparty_openssl_builder-stamp/thirdparty_openssl_builder-mkdir.rule"
+		},
+		{
+			"file" : "/home/vagrant/projects/try-workflow/libraries/openssl/thirdparty_openssl_builder-prefix/src/thirdparty_openssl_builder-stamp/thirdparty_openssl_builder-download.rule"
+		},
+		{
+			"file" : "/home/vagrant/projects/try-workflow/libraries/openssl/thirdparty_openssl_builder-prefix/src/thirdparty_openssl_builder-stamp/thirdparty_openssl_builder-update.rule"
+		},
+		{
+			"file" : "/home/vagrant/projects/try-workflow/libraries/openssl/thirdparty_openssl_builder-prefix/src/thirdparty_openssl_builder-stamp/thirdparty_openssl_builder-patch.rule"
+		},
+		{
+			"file" : "/home/vagrant/projects/try-workflow/libraries/openssl/thirdparty_openssl_builder-prefix/src/thirdparty_openssl_builder-stamp/thirdparty_openssl_builder-configure.rule"
+		},
+		{
+			"file" : "/home/vagrant/projects/try-workflow/libraries/openssl/thirdparty_openssl_builder-prefix/src/thirdparty_openssl_builder-stamp/thirdparty_openssl_builder-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"thirdparty_openssl_builder"
+		],
+		"name" : "thirdparty_openssl_builder"
+	}
+}

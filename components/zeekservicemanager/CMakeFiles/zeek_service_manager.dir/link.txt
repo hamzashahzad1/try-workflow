@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzeek_service_manager.a  CMakeFiles/zeek_service_manager.dir/src/zeekservicemanager.cpp.o CMakeFiles/zeek_service_manager.dir/src/zeekservicemanagertableplugin.cpp.o
+/usr/bin/ranlib libzeek_service_manager.a

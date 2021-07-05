@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-E;env;CC="/usr/bin/cc";AR="/usr/bin/ar";perl;./Configure;linux-x86_64;no-ssl2;no-ssl3;no-asm;no-shared;no-weak-ssl-ciphers;zlib-dynamic;enable-cms;--with-zlib-include=/home/vagrant/projects/try-workflow/libraries/zlib/src;--with-zlib-lib=$<TARGET_FILE:thirdparty_zlib>;--prefix=/;--openssldir=/etc/openssl;-fPIC;--sysroot=;-l:libunwind.a;-lpthread'

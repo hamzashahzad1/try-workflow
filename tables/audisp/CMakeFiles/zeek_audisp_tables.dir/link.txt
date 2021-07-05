@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzeek_audisp_tables.a  CMakeFiles/zeek_audisp_tables.dir/src/audispservicefactory.cpp.o CMakeFiles/zeek_audisp_tables.dir/src/socketeventstableplugin.cpp.o CMakeFiles/zeek_audisp_tables.dir/src/fileeventstableplugin.cpp.o CMakeFiles/zeek_audisp_tables.dir/src/processeventstableplugin.cpp.o CMakeFiles/zeek_audisp_tables.dir/src/audispservice.cpp.o
+/usr/bin/ranlib libzeek_audisp_tables.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzeek_utils.a  CMakeFiles/zeek_utils.dir/src/system_identifiers.cpp.o CMakeFiles/zeek_utils.dir/src/time.cpp.o
+/usr/bin/ranlib libzeek_utils.a

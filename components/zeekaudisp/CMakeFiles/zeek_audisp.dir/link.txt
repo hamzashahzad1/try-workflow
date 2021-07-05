@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzeek_audisp.a  CMakeFiles/zeek_audisp.dir/src/audispconsumer.cpp.o CMakeFiles/zeek_audisp.dir/src/audit_utils.cpp.o CMakeFiles/zeek_audisp.dir/src/auparseinterface.cpp.o CMakeFiles/zeek_audisp.dir/src/audispsocketreader.cpp.o
+/usr/bin/ranlib libzeek_audisp.a

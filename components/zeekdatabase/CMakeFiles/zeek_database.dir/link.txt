@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzeek_database.a  CMakeFiles/zeek_database.dir/src/virtualdatabase.cpp.o CMakeFiles/zeek_database.dir/src/virtualtablemodule.cpp.o CMakeFiles/zeek_database.dir/src/sqlite_utils.cpp.o CMakeFiles/zeek_database.dir/src/zeektablelisttableplugin.cpp.o
+/usr/bin/ranlib libzeek_database.a

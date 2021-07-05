@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzeek_host_information_table.a  CMakeFiles/zeek_host_information_table.dir/src/hostinformationtableplugin.cpp.o CMakeFiles/zeek_host_information_table.dir/src/osversion_linux.cpp.o
+/usr/bin/ranlib libzeek_host_information_table.a

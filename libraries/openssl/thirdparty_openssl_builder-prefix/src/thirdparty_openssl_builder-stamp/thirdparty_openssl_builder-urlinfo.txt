@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://www.openssl.org/source/openssl-1.1.1d.tar.gz;https://www.openssl.org/source/old/1.1.1/openssl-1.1.1d.tar.gz'
+tag=''

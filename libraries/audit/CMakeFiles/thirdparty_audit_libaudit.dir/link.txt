@@ -1,0 +1,2 @@
+/usr/bin/ar qc libthirdparty_audit_libaudit.a  CMakeFiles/thirdparty_audit_libaudit.dir/src/lib/deprecated.c.o CMakeFiles/thirdparty_audit_libaudit.dir/src/lib/message.c.o CMakeFiles/thirdparty_audit_libaudit.dir/src/lib/netlink.c.o CMakeFiles/thirdparty_audit_libaudit.dir/src/lib/audit_logging.c.o CMakeFiles/thirdparty_audit_libaudit.dir/src/lib/libaudit.c.o CMakeFiles/thirdparty_audit_libaudit.dir/src/lib/lookup_table.c.o CMakeFiles/thirdparty_audit_libaudit.dir/src/common/strsplit.c.o
+/usr/bin/ranlib libthirdparty_audit_libaudit.a

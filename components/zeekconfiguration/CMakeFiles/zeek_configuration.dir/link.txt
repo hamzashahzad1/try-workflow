@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzeek_configuration.a  CMakeFiles/zeek_configuration.dir/src/zeekconfiguration.cpp.o CMakeFiles/zeek_configuration.dir/src/configurationchecker.cpp.o CMakeFiles/zeek_configuration.dir/src/zeekconfigurationtableplugin.cpp.o
+/usr/bin/ranlib libzeek_configuration.a
